@@ -1,3 +1,3 @@
 # Easy-dp
-Solutions to the At-Coder Educational Dynamic Programming Contest.
+My Solutions to the At-Coder Educational Dynamic Programming Contest.
 Link: (https://atcoder.jp/contests/dp/tasks)
